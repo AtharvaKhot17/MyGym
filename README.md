@@ -213,23 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Android community for libraries and tools
 - React community for web development resources
 
-## 📞 Support
-
-If you have any questions or need support, please:
-
-- Open an issue on GitHub
-- Contact: atharva.khot@example.com
-- Documentation: [Wiki](https://github.com/AtharvaKhot17/MyGym/wiki)
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with basic features
-- **v1.1.0** - Added health tracking and analytics
-- **v1.2.0** - Enhanced UI and performance improvements
-
----
-
-⭐ **Star this repository if you find it helpful!**
 
 </rewritten_file>
 
